@@ -1,0 +1,53 @@
+#EXTINF:-1,BBC News
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbcnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC News
+https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC News
+https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
+#EXTINF:-1,Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1,BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,BBC World News
+http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF:-1,BBC World News
+http://ott-cdn.ucom.am/s24/04.m3u8
+#EXTINF:-1,BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1,US: BBC America HD
+http://nitro.ltd:25461/live/Loise/Loise/3683.m3u8
+#EXTINF:-1,US: CNN HD 1080
+http://nitro.ltd:25461/live/Loise/Loise/1452.m3u8
+#EXTINF:-1,US: CNN 720
+http://nitro.ltd:25461/live/Loise/Loise/11664.m3u8
+#EXTINF:-1,US: CNN HD (alt)
+http://nitro.ltd:25461/live/Loise/Loise/21779.m3u8
+#EXTINF:-1,UK: CNN HD
+http://nitro.ltd:25461/live/Loise/Loise/1322.m3u8
+#EXTINF:-1,UK: BBC 3
+http://nitro.ltd:25461/live/Loise/Loise/3451.m3u8
+#EXTINF:-1,UK: BBC NEWS HD
+http://nitro.ltd:25461/live/Loise/Loise/1313.m3u8
+#EXTINF:-1,USA: ABC News
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3639.ts
+#EXTINF:-1,USA: BBC America
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3635.ts
+#EXTINF:-1,USA: CBS
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3627.ts
+#EXTINF:-1,USA: CBSN
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3626.ts
+#EXTINF:-1,USA: CNBC
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3623.ts
+#EXTINF:-1,USA: CNN
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3622.ts
+#EXTINF:-1,USA: CNN HD
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3653.ts
+#EXTINF:-1,USA: NBC
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3570.ts
+#EXTINF:-1,USA: NBCSN
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3569.ts
+#EXTINF:-1,USA: TBS
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3556.ts
+#EXTINF:-1,VIP: UK - SKY NEWS FHD
+http://landiptv.live:8080/FEsht61XoB/emDc74x7g8/237934
+
