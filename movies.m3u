@@ -8,32 +8,14 @@ http://nitro.ltd:25461/live/Karen/Karen/19658.m3u8
 http://nitro.ltd:25461/live/Loise/Loise/19658.m3u8
 #EXTINF:-1,La: HBO HD 1080
 http://nitro.ltd:25461/live/Loise/Loise/2982.m3u8
-#EXTINF:-1,HBO
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1,US: HBO HD 1080
-http://nitro.ltd:25461/live/Jeremy/Jeremy/21761.m3u8
-#EXTINF:-1,USA: HBO
-http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3590.ts
-#EXTINF:-1,US: HBO 720
-http://nitro.ltd:25461/live/Loise/Loise/1464.m3u8
 #EXTINF:-1,US: HBO 2 HD 1080
 http://nitro.ltd:25461/live/Loise/Loise/2444.m3u8
 #EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1,HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1,HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1,HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
-#EXTINF:-1,HBO2
-http://161.0.157.51/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1,HBO2
-http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1,US: HBO 2 HD 1080
 http://nitro.ltd:25461/live/Jeremy/Jeremy/2444.m3u8
-#EXTINF:-1,USA: HBO 2
-http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3589.ts
 #EXTINF:-1,US: HBO Comedy HD 1080
 http://nitro.ltd:25461/live/Loise/Loise/5879.m3u8
 #EXTINF:-1,US: HBO Signature HD 1080
