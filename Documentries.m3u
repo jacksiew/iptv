@@ -1,0 +1,136 @@
+#EXTINF:-1,History Channel
+http://192.240.127.34:1935/live/cs14.stream/play.m3u8
+#EXTINF:-1,History Channel
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1,History Channel
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,Travel Mix
+https://ppext.arktv.ro/hls/channel1/bitrate3.m3u8
+#EXTINF:-1,Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1,US: Animal Planet HD 1080
+http://nitro.ltd:25461/live/Loise/Loise/1449.m3u8
+#EXTINF:-1,US: CRIME & INVESTIGATION HD 1080
+http://nitro.ltd:25461/live/Loise/Loise/22428.m3u8
+#EXTINF:-1,US: Discovery HD
+http://nitro.ltd:25461/live/Loise/Loise/1454.m3u8
+#EXTINF:-1,US: Discovery 720
+http://nitro.ltd:25461/live/Loise/Loise/11563.m3u8
+#EXTINF:-1,US: Discovery Family HD 1080
+http://nitro.ltd:25461/live/Loise/Loise/3676.m3u8
+#EXTINF:-1,US: Destination America HD
+http://nitro.ltd:25461/live/Loise/Loise/19684.m3u8
+#EXTINF:-1,US: History Channel HD 1080
+http://nitro.ltd:25461/live/Loise/Loise/1466.m3u8
+#EXTINF:-1,US: History Channel 720
+http://nitro.ltd:25461/live/Loise/Loise/11671.m3u8
+#EXTINF:-1,US: INSP Network HD
+http://nitro.ltd:25461/live/Loise/Loise/23008.m3u8
+#EXTINF:-1,US: LawandCrime
+http://nitro.ltd:25461/live/Loise/Loise/40919.m3u8
+#EXTINF:-1,US: Nat Geo HD
+http://nitro.ltd:25461/live/Loise/Loise/1377.m3u8
+#EXTINF:-1,US: Nat Geo 720
+http://nitro.ltd:25461/live/Loise/Loise/11566.m3u8
+#EXTINF:-1,US: Nat Geo Wild HD
+http://nitro.ltd:25461/live/Loise/Loise/1469.m3u8
+#EXTINF:-1,US: Outdoor Channel HD
+http://nitro.ltd:25461/live/Loise/Loise/18449.m3u8
+#EXTINF:-1,US: Travel Channel HD
+http://nitro.ltd:25461/live/Loise/Loise/3655.m3u8
+#EXTINF:-1,US: Travel Channel 720
+http://nitro.ltd:25461/live/Loise/Loise/11565.m3u8
+#EXTINF:-1,LA: Nat Geo Wild HD
+http://nitro.ltd:25461/live/Loise/Loise/11828.m3u8
+#EXTINF:-1,LA: Discovery Channel HD
+http://nitro.ltd:25461/live/Loise/Loise/11673.m3u8
+#EXTINF:-1,La: Animal Planet
+http://nitro.ltd:25461/live/Loise/Loise/5.m3u8
+#EXTINF:-1,MX: Animal Planet HD
+http://nitro.ltd:25461/live/Loise/Loise/17743.m3u8
+#EXTINF:-1,MX: Discover Theater HD
+http://nitro.ltd:25461/live/Loise/Loise/16752.m3u8
+#EXTINF:-1,MX: Investigation Discovery HD
+http://nitro.ltd:25461/live/Loise/Loise/16724.m3u8
+#EXTINF:-1,MX: Discovery Theater HD
+http://nitro.ltd:25461/live/Loise/Loise/17733.m3u8
+#EXTINF:-1,UK: Animal Planet HD
+http://nitro.ltd:25461/live/Loise/Loise/1308.m3u8
+#EXTINF:-1,UK: Discovery Channel HD
+http://nitro.ltd:25461/live/Loise/Loise/2066.m3u8
+#EXTINF:-1,UK: Discovery History
+http://nitro.ltd:25461/live/Loise/Loise/2065.m3u8
+#EXTINF:-1,UK: Discovery Science
+http://nitro.ltd:25461/live/Loise/Loise/2063.m3u8
+#EXTINF:-1,UK: Discovery Turbo
+http://nitro.ltd:25461/live/Loise/Loise/2061.m3u8
+#EXTINF:-1,UK: History HD
+http://nitro.ltd:25461/live/Loise/Loise/3164.m3u8
+#EXTINF:-1,UK: HISTORY 2 HD
+http://nitro.ltd:25461/live/Loise/Loise/1333.m3u8
+#EXTINF:-1,UK: Nat Geo HD
+http://nitro.ltd:25461/live/Loise/Loise/1338.m3u8
+#EXTINF:-1,UK: National Geographic HD
+http://nitro.ltd:25461/live/Loise/Loise/3433.m3u8
+#EXTINF:-1,UK: National Geographic Wild HD
+http://nitro.ltd:25461/live/Loise/Loise/3377.m3u8
+#EXTINF:-1,US: CRIME & INVESTIGATION HD 1080
+http://nitro.ltd:25461/live/Karen/Karen/22428.m3u8
+#EXTINF:-1,US: Discovery HD
+http://nitro.ltd:25461/live/Karen/Karen/1454.m3u8
+#EXTINF:-1,US: History Channel 720
+http://nitro.ltd:25461/live/Karen/Karen/11671.m3u8
+#EXTINF:-1,US: Nat Geo Wild HD
+http://nitro.ltd:25461/live/Jeremy/Jeremy/1469.m3u8
+#EXTINF:-1,US: Outdoor Channel HD
+http://nitro.ltd:25461/live/Jeremy/Jeremy/18449.m3u8
+#EXTINF:-1,USA: American Heroes Channel
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3637.ts
+#EXTINF:-1,USA: Animal Planet
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3636.ts
+#EXTINF:-1,USA: Destination America
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3617.ts
+#EXTINF:-1,USA: Discovery Channel
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3616.ts
+#EXTINF:-1,USA: Discovery Family
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3615.ts
+#EXTINF:-1,USA: Discovery Life
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3614.ts
+#EXTINF:-1,USA: Discovery Science
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3613.ts
+#EXTINF:-1,USA: History Channel
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3584.ts
+#EXTINF:-1,USA: History HD
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3648.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3581.ts
+#EXTINF:-1,USA: Nat Geo
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3573.ts
+#EXTINF:-1,USA: Nat Geo Wild
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3572.ts
+#EXTINF:-1,USA: Travel Channel
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3552.ts
+#EXTINF:-1,USA: Travel Channel HD
+http://iptv.kosiptv.com:1557/live/9Y9iNJfeJS/dAJDT8sjEW/3643.ts
+#EXTINF:-1,VIP: BG - ANIMAL PLANET HD
+http://landiptv.live:8080/FEsht61XoB/emDc74x7g8/198619
+#EXTINF:-1,VIP: DE - Discovery CHANNEL HD
+http://landiptv.live:8080/FEsht61XoB/emDc74x7g8/207893
+#EXTINF:-1,VIP: DE - History CHANNEL HD
+http://landiptv.live:8080/FEsht61XoB/emDc74x7g8/207900
+#EXTINF:-1,VIP: DE - NAT GEO WILD HD
+http://landiptv.live:8080/FEsht61XoB/emDc74x7g8/198630
+#EXTINF:-1,VIP: US - ANIMAL PLANET HD
+http://landiptv.live:8080/FEsht61XoB/emDc74x7g8/198570
+#EXTINF:-1,VIP: US - NAT GEO Wild HD
+http://landiptv.live:8080/FEsht61XoB/emDc74x7g8/198551
+#EXTINF:-1,VIP: US - Travel Channel HD
+http://landiptv.live:8080/FEsht61XoB/emDc74x7g8/198563
+#EXTINF:-1,US: ANIMAL PLANET HD
+http://landiptv.live:8080/FEsht61XoB/emDc74x7g8/115745
